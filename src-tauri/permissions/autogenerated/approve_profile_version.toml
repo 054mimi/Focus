@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-approve-profile-version"
+description = "Enables the approve_profile_version command without any pre-configured scope."
+commands.allow = ["approve_profile_version"]
+
+[[permission]]
+identifier = "deny-approve-profile-version"
+description = "Denies the approve_profile_version command without any pre-configured scope."
+commands.deny = ["approve_profile_version"]

@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-simulate-session-policy"
+description = "Enables the simulate_session_policy command without any pre-configured scope."
+commands.allow = ["simulate_session_policy"]
+
+[[permission]]
+identifier = "deny-simulate-session-policy"
+description = "Denies the simulate_session_policy command without any pre-configured scope."
+commands.deny = ["simulate_session_policy"]

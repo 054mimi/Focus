@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-record-session-outcome"
+description = "Enables the record_session_outcome command without any pre-configured scope."
+commands.allow = ["record_session_outcome"]
+
+[[permission]]
+identifier = "deny-record-session-outcome"
+description = "Denies the record_session_outcome command without any pre-configured scope."
+commands.deny = ["record_session_outcome"]

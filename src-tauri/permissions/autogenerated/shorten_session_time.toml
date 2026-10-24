@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-shorten-session-time"
+description = "Enables the shorten_session_time command without any pre-configured scope."
+commands.allow = ["shorten_session_time"]
+
+[[permission]]
+identifier = "deny-shorten-session-time"
+description = "Denies the shorten_session_time command without any pre-configured scope."
+commands.deny = ["shorten_session_time"]
